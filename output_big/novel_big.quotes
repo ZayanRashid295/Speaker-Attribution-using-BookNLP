@@ -1,0 +1,19 @@
+quote_id	speaker	quote_text	start_token	end_token	char_id
+1	Miss Bartlett	"""The Signora had no business to do it,"""	9	17	1
+2	Miss Bartlett	"""no business at all. She promised us south rooms with a view close together, instead of which here are north rooms, looking into a courtyard, and a long way apart. Oh, Lucy!"""	19	50	1
+3	Lucy	"""And a Cockney, besides!"""	57	61	2
+4	Lucy	"""It might be London."""	75	79	2
+5	Lucy	"""Charlotte, don't you feel, too, that we might be in London? I can hardly believe that all kinds of other things are just outside. I suppose it is one's being so tired."""	150	185	2
+6	Miss Bartlett	"""This meat has surely been used for soup,"""	187	195	1
+7	Miss Bartlett	"""I want so to see the Arno. The rooms the Signora promised us in her letter would have looked over the Arno. The Signora had no business to do it at all. Oh, it is a shame!"""	200	236	1
+8	Miss Bartlett	"""Any nook does for me,"""	238	243	1
+9	Miss Bartlett	"""but it does seem hard that you shouldn't have a view."""	245	256	1
+10	Lucy	"""Charlotte, you mustn't spoil me: of course, you must look over the Arno, too. I meant that. The first vacant room in the front--"""	265	293	2
+11	Miss Bartlett	"""You must have it,"""	294	298	1
+12	Miss Bartlett	"""Your mother would never forgive me, Lucy."""	308	316	1
+13	Lucy	"""She would never forgive me."""	318	324	2
+14	Old Man	"""I have a view, I have a view."""	383	390	3
+15	Miss Bartlett	"""A view? Oh, a view! How delightful a view is!"""	477	487	1
+16	Old Man	"""This is my son,"""	489	493	3
+17	Lucy	"""his name's George. He has a view too."""	495	502	2
+18	Miss Bartlett	"""Ah,"""	504	505	1
